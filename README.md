@@ -1,1 +1,2 @@
 # portfolio
+Hi! This portfolio highlights all I learned while imporving my skills in a coding bootcamp at Northwestern University. While this encompasses all that I did while I was developing and learning new technologies, it is by no means comprehensive of my previous freelance work done prior to this bootcamp. 
