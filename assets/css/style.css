@@ -18,8 +18,11 @@
 
 #train{
     text-align: center;
+}
 
- }
+.waves-effect{
+    margin-top: 125px;
+}
 
 #about-img{
     width: 500px;
